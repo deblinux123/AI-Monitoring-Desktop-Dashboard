@@ -15,7 +15,7 @@ import (
 )
 
 type OllamaResponse struct {
-	Models []OllamaModel `json:"models`
+	Models []OllamaModel `json:"models"`
 }
 
 type OllamaModel struct {
