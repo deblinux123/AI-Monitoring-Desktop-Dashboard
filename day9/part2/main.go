@@ -99,7 +99,7 @@ func run(window *app.Window) error {
 						return layout.Dimensions{
 							Size: image.Pt(
 								gtx.Constraints.Max.X,
-								400,
+								800,
 							),
 						}
 					},
